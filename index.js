@@ -1,6 +1,6 @@
 'use strict';
-const foregroundColor = 'rgba(143, 147, 162, .6)';
-const backgroundColor = '#0F111A';
+const foregroundColor = '#8F93A2';
+const backgroundColor = 'rgba(143, 147, 162, .6)';
 const selectionColor = 'rgba(58, 117, 196, 0.3)';
 const black = '#000000';
 const red = '#E25822';
