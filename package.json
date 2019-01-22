@@ -1,22 +1,15 @@
 {
-  "name": "hyperocean",
-  "version": "1.1.2",
+  "name": "hyperocean-transparent",
+  "version": "1.0.0",
   "main": "index.js",
-  "description": "🌊 Deep oceanic blue Hyper theme",
+  "description": "A modified copy of hyperocean theme for Hyper",
   "license": "MIT",
-  "repository": "klaussinani/hyperocean",
+  "repository": "cod3rguy/hyperocean",
   "author": {
-    "name": "Klaus Sinani",
-    "email": "klaussinani@gmail.com",
-    "url": "https://klaussinani.github.io"
+    "name": "Sean Mishra",
+    "email": "santakmishra@outlook.com",
+    "url": "https://coderguy.me"
   },
-  "maintainers": [
-    {
-      "name": "Mario Sinani",
-      "email": "mariosinani@protonmail.ch",
-      "url": "https://mariocfhq.github.io"
-    }
-  ],
   "files": [
     "index.js"
   ],
